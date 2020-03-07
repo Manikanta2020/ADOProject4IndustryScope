@@ -1,0 +1,24 @@
+Project Implemetation Related Activities are
+
+Would like to know the steps have been performed or implemented in Azure DevOps labs to make them avaiable instanly.
+
+Daily Activities and Resposibilties of Azure DevOps Engineer.
+
+1) Implement an Azure DevOps Organization from Sractch level
+2) Implement Azure DevOps Project from Scratch Level
+3) Implement Azure DevOps Services from Scratch Level
+
+Azure DevOps Services will include, Azure Repos, Azure Pipelines, Azure Artifacts, Azure TestPlans (according to environment availability)
+
+1) Perform an end to end Migration with each of Azure DevOps Services( Azure repos, Azure Pipelines, Azure Artifacts)
+2) Perform an end to end Migration with Azure DevOps Project
+3) Perform an end to end Migration with Azure DevOps Organization
+4) Implement an environment to share the azure devops services among the Azure DevOps Project, Azure DevOps Organizations.
+
+1) Implementing the change the Repos' Configuration.
+2) Integrating the any code scanning (Sonarqube) tool and other tools ( Jenkins, Docker, Kubernets, Octopus, and a few Monitoring tools) 
+	to Azure DevOps Organization or Projects.
+
+Challenges and Implementation Plan for Disaster Recovery Planning Documentation.
+
+By completing all the above implementations, you will be ready to perform any ADO Implementations, ADO migrations.
