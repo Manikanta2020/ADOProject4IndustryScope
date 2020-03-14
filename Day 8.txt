@@ -49,3 +49,7 @@ dsc5xdix42r7qq3qsnwu4hkkcsdlpvxvghu4ixz3pvg5yym34zza
 GIT URL
 
 https://github.com/Manikanta2020/ADOProject4IndustryScope.git
+
+GIT Hub Token generated in Settings in GIT HUb
+
+72fa6fe06e259187212182f7c9db87377d1cdd9d
