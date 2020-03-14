@@ -1,0 +1,13 @@
+Steps to be followed in Building Pipeline.
+
+
+Build Pipeline: The Objective is Implementing Continuous Integration.
+
+What is Integration?
+
+Continuous Changes,
+
+Continuous Applications Integration
+
+Configuring different tasks to get the application/branch of code/piece of code to some level where it can deployed or deliverted from that stage (Integration stage).
+

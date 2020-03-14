@@ -1,0 +1,5 @@
+ADO Operations with Power Shell
+ADO Operations with REST API
+ADO Operations with YAML(Pipelines)
+ADO Operations with Terraform
+ADO Operations with tools in the market(kubernets, dockers ,jenkins, ansible, chef, puppet,)

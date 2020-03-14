@@ -1,0 +1,55 @@
+Performed on Day 7
+
+
+1) We have created an Azure DevOps Organization
+
+2) we have created an Azure Active Directory
+
+3) we have established a connection between Azure Active Directory and Azure DevOps Organization
+
+4) we have installed some extensions in the azure devops organization
+
+5) we have created some users in Azure active directory and enabled access for them in Azure DevOps Organization
+
+6) played a chill game to find out the loop holes in azure devops ownership change process.
+
+
+
+Objective of Day 8 is
+
+
+
+1) We will create an Azure DevOps Organization  ADO4IndustryScope and ADO Project is ADOProject4IndustryScope
+
+2) we will create an Azure Active Directory  AAD4IndustryScope   (AAD is AAD4IndustryScope.onmicrosoft.com)
+
+3) we will establish a connection between Azure Active Directory and Azure DevOps Organization
+
+5) we will create  some users in Azure active directory and enabled access for them in Azure DevOps Organization
+
+
+Related to Sprint:
+
+1 Creation of User Stories will be performed as part of the task like Sprint Planning.
+
+2 Grooming Tasks Creation for Sprint.
+
+3 Release Tasks Creation for Sprint.
+
+
+GIT Details.
+
+Manikanta2020
+DevOps2020!@#$
+
+GIT Repository PAT
+
+dsc5xdix42r7qq3qsnwu4hkkcsdlpvxvghu4ixz3pvg5yym34zza
+
+GIT URL
+
+https://github.com/Manikanta2020/ADOProject4IndustryScope.git
+
+GIT Hub Token generated in Settings in GIT HUb
+
+72fa6fe06e259187212182f7c9db87377d1cdd9d
